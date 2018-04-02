@@ -1,0 +1,5 @@
+/Volumes/MAC/Jarmo/Documents/Projects/C#_projektid/cipher/caesar/caesar/bin/Debug/caesar.exe
+/Volumes/MAC/Jarmo/Documents/Projects/C#_projektid/cipher/caesar/caesar/bin/Debug/caesar.pdb
+/Volumes/MAC/Jarmo/Documents/Projects/C#_projektid/cipher/caesar/caesar/obj/x86/Debug/caesar.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Jarmo/Documents/Projects/C#_projektid/cipher/caesar/caesar/obj/x86/Debug/caesar.exe
+/Volumes/MAC/Jarmo/Documents/Projects/C#_projektid/cipher/caesar/caesar/obj/x86/Debug/caesar.pdb
